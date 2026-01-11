@@ -114,13 +114,4 @@ const experiences: Experience[] = [
       "Helping students with registrations and event participation.",
     ],
   },
-  {
-    id: 3,
-    title: "Campus Ambassador",
-    company: "matru.x",
-    period: "2024",
-    responsibilities: [
-      "Supporting campus promotions and student engagement activities.",
-    ],
-  },
 ]
