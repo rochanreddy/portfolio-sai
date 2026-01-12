@@ -85,7 +85,7 @@ export default function ProjectSection() {
         <div className="font-medium">
           Explore more projects in{" "}
           <Link
-            href="https://github.com/devshinthant"
+            href="https://github.com/saisrinivas42"
             target="_blank"
             aria-label="Expore more in my github profile"
             rel="noreferrer"
@@ -172,6 +172,17 @@ const projects: Project[] = [
     description:
       "A set of basic projects demonstrating core Spring Boot concepts such as REST APIs and CRUD operations.",
     techStacks: ["Spring Boot", "Java", "REST API"],
+    image: ComingSoon,
+    githubURL: "",
+    liveURL: "",
+    githubApi: "",
+  },
+  {
+    id: 7,
+    title: "Employee Management System",
+    description:
+      "A web-based application developed for BridgeSoft to efficiently manage employee information. The system allows administrators to add, update, view, and delete employee records through a user-friendly interface.",
+    techStacks: ["ReactJS", "Spring Boot", "MySQL", "Maven", "Postman", "Git/GitHub"],
     image: ComingSoon,
     githubURL: "",
     liveURL: "",

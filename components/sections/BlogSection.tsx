@@ -91,6 +91,14 @@ export interface Experience {
   responsibilities: string[]
 }
 
+export interface Blog {
+  title: string
+  description: string
+  image: string
+  publishAt: string
+  link: string
+}
+
 const experiences: Experience[] = [
   {
     id: 1,

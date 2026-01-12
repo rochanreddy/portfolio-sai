@@ -272,9 +272,13 @@ const TechStack = () => {
     "AWS",
     "Docker",
     "Kubernetes",
-    "Redis",
     "MongoDB",
     "Git",
+    "JDBC",
+    "Servlets",
+    "JPA",
+    "Postman",
+    "Python",
   ]
 
   return (
