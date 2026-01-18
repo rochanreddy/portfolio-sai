@@ -81,7 +81,7 @@ const socialLinks = [
   {
     id: 2,
     title: "Shinn Thant's LinkedIn Profile",
-    link: "https://www.linkedin.com/in/shinn-thant-b90533231/",
+    link: "https://www.linkedin.com/in/gudelli-sai-srinivas-616896288/",
     svg: (
       <svg
         xmlns="http://www.w3.org/2000/svg"
